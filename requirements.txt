@@ -1,0 +1,6 @@
+tensorflow==2.13.0
+flask==3.0.0
+numpy
+matplotlib
+pillow
+werkzeug
